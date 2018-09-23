@@ -1,0 +1,14 @@
+[
+   {
+      "TransactionId": 1010,
+      "Instrument": "IBM",
+      "TransactionType": "B",
+      "TransactionQuantity": 1000
+   },
+   {
+      "TransactionId": 2020,
+      "Instrument": "IBM",
+      "TransactionType": "S",
+      "TransactionQuantity": 200
+   }
+]

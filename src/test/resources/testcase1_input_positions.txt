@@ -1,0 +1,3 @@
+Instrument,Account,AccountType,Quantity
+IBM,101,E,100000
+IBM,102,I,345000
